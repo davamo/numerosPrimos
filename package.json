@@ -1,0 +1,19 @@
+{
+  "name": "numerosprimos",
+  "version": "1.0.0",
+  "description": "lista numeros primos",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/davamo/numerosPrimos.git"
+  },
+  "author": "davamo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/davamo/numerosPrimos/issues"
+  },
+  "homepage": "https://github.com/davamo/numerosPrimos#readme"
+}

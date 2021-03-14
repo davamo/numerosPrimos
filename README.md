@@ -2,12 +2,6 @@
 
 clone el proyecto desde el reposotorio de github
 
-
-
-Iniciacion del proyecto bajo el control de npm:
-
-npm init --yes
-
 Instalación Mocha:
 
 Podemos instalar mocha de forma global: npm i -g mocha.

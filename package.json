@@ -2,9 +2,9 @@
   "name": "numerosprimos",
   "version": "1.0.0",
   "description": "lista numeros primos",
-  "main": "index.js",
+  "main": "numerosPrimos.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "./node_modules/.bin/mocha --reporter spec"
   },
   "repository": {
     "type": "git",
@@ -15,5 +15,9 @@
   "bugs": {
     "url": "https://github.com/davamo/numerosPrimos/issues"
   },
-  "homepage": "https://github.com/davamo/numerosPrimos#readme"
+  "homepage": "https://github.com/davamo/numerosPrimos#readme",
+  "dependencies": {
+    "chai": "^4.3.4",
+    "mocha": "^8.3.2"
+  }
 }

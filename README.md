@@ -18,7 +18,7 @@ Instalación Chai:
 
 npm i chai
 
-estan contenidos en pakaje.json:
+estan contenidos en package.json:
 
 npm i 
 

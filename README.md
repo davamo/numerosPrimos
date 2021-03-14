@@ -1,0 +1,3 @@
+# numerosPrimos
+
+run npm test
